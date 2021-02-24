@@ -1,0 +1,53 @@
+instruments:
+  daughterboard:
+    init:
+      connections:
+      - endpoints:
+        - bp_6
+        name: dbp_1
+        ohms: 0.0
+      - endpoints:
+        - bp_10
+        name: dbp_2
+        ohms: 0.0
+      - endpoints:
+        - bp_22
+        name: dbp_3
+        ohms: 0.0
+      - endpoints:
+        - bp_44
+        name: dbp_4
+        ohms: 0.0
+      - endpoints:
+        - bp_24
+        name: dbp_5
+        ohms: 0.0
+      - endpoints:
+        - bp_4
+        name: dbp_6
+        ohms: 0.0
+      - endpoints:
+        - bp_41
+        name: dbp_7
+        ohms: 0.0
+      - endpoints:
+        - bp_15
+        name: dbp_8
+        ohms: 0.0
+      - endpoints:
+        - bp_21
+        name: dbp_9
+        ohms: 0.0
+      - endpoints:
+        - bp_16
+        name: dbp_10
+        ohms: 0.0
+      - endpoints:
+        - bp_1
+        name: dbp_11
+        ohms: 0.0
+      - endpoints:
+        - bp_12
+        name: dbp_11
+        ohms: 0.0
+      type: '[INSERT CONNECTOR NAME HERE]'
